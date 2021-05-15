@@ -1,0 +1,33 @@
+.partent{ 
+	background-color: #afafaf;
+	color: black;
+	font-size: 26px;
+	font-style: bold;
+
+}
+
+.child-one {
+	background-color: #11a23f;
+	font-size: 30px; 
+	border-color: black;
+	border-style: solid;
+
+	/* background-color: lightgreen*/
+
+}
+
+.child-two {
+	background-color: #41424f;
+	font-size: 30px; 
+	border-color: black;
+	
+}
+
+.child-three {
+	background-color: pink;
+
+	color: black;
+	font-size: 19px;
+	font-style: bold;
+
+}

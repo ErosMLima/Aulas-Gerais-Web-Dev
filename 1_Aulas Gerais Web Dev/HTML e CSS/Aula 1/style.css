@@ -1,0 +1,26 @@
+.parent {
+	background-color: #dfdfdf;
+	color: black;
+	font-size: 26px;
+	font-style: bold;
+
+}
+
+.child-one {
+	/*background-color: lightgreen*/
+
+}
+
+.child-two {
+	background-color: gold;
+
+}
+
+.child-three {
+	background-color: pink;
+
+	color: black;
+	font-size: 19px;
+	font-style: bold;
+
+}
